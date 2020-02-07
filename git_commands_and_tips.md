@@ -1,4 +1,4 @@
-# Git Tutorial
+# Git Guide 
 
 ### First-time Git setup
 ```bash
